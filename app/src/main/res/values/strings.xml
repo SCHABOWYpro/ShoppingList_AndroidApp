@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="Type_your_product_here">Type your product here..</string>
+    <string name="Specify_the_amount">Specify the amount </string>
+</resources>
